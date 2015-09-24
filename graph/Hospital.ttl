@@ -10,7 +10,7 @@
 
 <okirl:huid3>  a       dbo:Hospital ;
         okirl:hgid     2 ;
-        okirl:hgroup   "Ireland East Hospital Group" ;
+        okirl:hgroup   "Ireland XXEast Hospital Group" ;
         okirl:hguid    <okirl:hguid2> ;
         okirl:hid      3 ;
         okirl:name     "Cappagh National Orthopaedic Hospital" ;
